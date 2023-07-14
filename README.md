@@ -28,3 +28,7 @@ https://assignfullstack-next-six.vercel.app/
 ### Use This Project:
 - [Material UI - Next.js example in TypeScript](https://github.com/mui/material-ui/tree/master/examples/material-next-ts)
 - [React map gl](http://visgl.github.io/react-map-gl/)
+
+### Note 
+
+Before run this project please add [Map Box Access Token](https://docs.mapbox.com/api/accounts/tokens/) 
