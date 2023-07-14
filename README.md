@@ -18,3 +18,13 @@ Install it and run:
 npm install
 npm run dev
 ```
+
+### Live Demo
+
+Url Link [URL](https://assignfullstack-next-six.vercel.app/): 
+https://assignfullstack-next-six.vercel.app/
+
+
+### Use This Project:
+- [Material UI - Next.js example in TypeScript](https://github.com/mui/material-ui/tree/master/examples/material-next-ts)
+- [React map gl](http://visgl.github.io/react-map-gl/)
